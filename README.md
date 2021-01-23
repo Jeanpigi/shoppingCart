@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Shopping Cart
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple project of Shopping Cart made in React and Typescript. This project is just for education and learning purpose.
 
 ## Available Scripts
 
@@ -44,3 +44,16 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+
+# Authors
+* **Jean Pierre Giovanni Arenas Ortiz**
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
